@@ -1,0 +1,10 @@
+name: aoc2021
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  - pip
+  - python=3
+prefix: C:\Anaconda3\envs\aoc2021
