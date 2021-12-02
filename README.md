@@ -1,4 +1,3 @@
 # Advent of Code 2021
 
-This repository contains my solutions to the puzzles in [Advent of Code 2021] (https://adventofcode.com)
-# Advent_of_Code_2021
+This repository contains my solutions to the puzzles in [Advent of Code 2021](https://adventofcode.com)
